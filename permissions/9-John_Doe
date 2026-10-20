@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod TON_NOMBRE hello
+chmod 753 hello
