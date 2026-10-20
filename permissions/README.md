@@ -11,3 +11,4 @@
 - 8-James_Bond: sets the permissions of hello to no permission for owner and group, all permissions for others
 - 9-John_Doe: sets the mode of the file hello to -rwxr-x-wx
 - 9-John_Doe: sets the mode of the file hello to -rwxr-x-wx
+- 10-mirror_permissions: sets the mode of hello the same as olleh's mode
